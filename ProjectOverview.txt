@@ -1,7 +1,7 @@
 Project Overview: 
 
 The basic idea behind this clone app is to immitate the functionality provided in Blushed App. 
-The filtering of message, so as to denote left, right, and middle message is done via using basic postional value(2, 5, 7). 
+The filtering of message, so as to denote left, right, and middle message is done via using basic postional value(multiple of 2, 5, 7). 
 The objective of mine was not to think of new Idea, but was to show my skills as to how I would approach such ideas.
-The design of the app is kept very basic, I just added full screen mode for better experience. 
+The design of the app is kept very basic, I just added full screen mode for better experience. Long press to get full screen mode back.
 
